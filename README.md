@@ -26,8 +26,24 @@
 + Remove files with `rm`
 + Describe the purpose of CLIs
 
-## Introduction
+## Outline
+Cover basic directory structure, history of the terminal, and basic BASH commands (cd, ls, touch, mkdir)
 
-## Conclusion
+*NOTE* No starter code require, simply open a Learn IDE in Browser Window to identify the terminal.
 
-## Resources
++ Discuss history of computers
+  + "Way back when in the 1980s, using a Terminal was the only way to interact with computers."
+  + Show Finder for Mac, how it's a representation of files that are on the computer. Graphical User Interface, or GUI
+  + Link to Pirates of Silicon Valley Clip that demonstrates this
++ Explain why software developers use terminal interface
+  + Faster to use
+  + Easier to create tools without a GUI
++ Demonstrate some basic BASH commands
+  + pwd - what directory am I in?
+  + ls (or ls .)- what's in this directory? . meaning current directory
+  + cd .. - move up one directory
+  + Discuss relative vs absolute paths
+  + Create a new file with `touch`
+    + this is something you can only really do from the Terminal
+  + Create a new directory and move the file into that directory
+  + Remove the file and the directory
